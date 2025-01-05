@@ -72,7 +72,7 @@ PORT=5001
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+git clone https://github.com/SantoshMorla/ChatGpt-clone.git
 ```
 
 ## 🏗️ Build and Run the Application"

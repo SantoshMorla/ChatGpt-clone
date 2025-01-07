@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: chat-app-backend
-        image: harshsoni777/chatapp-backend:latest
+        image: devsantosh03/backend-chatgpt:latest
         ports:
         - containerPort: 5001
         env:
@@ -39,3 +39,4 @@ spec:
           requests:
             memory: "256Mi"
             cpu: "250m"
+            

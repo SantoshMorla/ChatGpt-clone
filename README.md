@@ -1,4 +1,4 @@
-## 📝 Introduction:
+##📝 Introduction:
 
 This project aims to provide a real-time chat experience that's both scalable and secure. With a focus on modern technologies, we're building an application that's easy to use and maintain.
 
